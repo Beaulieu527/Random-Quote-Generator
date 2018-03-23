@@ -3,7 +3,7 @@ var quotes = [
   {
     quote: 'Keep your face always toward the sunshine—and shadows will fall behind you.',
     source: 'Walt Whitman',
-    citation: "",
+    citation: "Leaves of Grass",
     year: ""
 
   },
@@ -11,13 +11,13 @@ var quotes = [
     quote: 'The glow of one warm thought is to me worth more than money.',
     source: 'Thomas Jefferson',
     citation: "",
-    year: ""
+    year: "1787"
 
   },
   {
-    quote: 'I arise full of eagerness and energy, knowing well what achievement lies ahead of me.',
+    quote: 'Jealousy is an unjust and stifling thing.',
     source: 'Zane Grey',
-    citation: "",
+    citation: "The Call of the Canyon",
     year: ""
   },
   {
@@ -30,7 +30,7 @@ var quotes = [
     quote: 'The power of imagination makes us infinite.',
     source: 'John Muir',
     citation: "",
-    year: ""
+    year: "1909"
   }
 
 ];
